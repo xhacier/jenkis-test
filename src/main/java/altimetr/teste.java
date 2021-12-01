@@ -6,7 +6,7 @@ import java.util.Optional;
 import java.util.OptionalDouble;
 import java.util.stream.IntStream;
 import java.util.stream.Stream; 
-public class teste {
+public class Teste {
 	
 	public static Optional<String> getGrade(int marks){
 		Optional<String> grade = Optional.empty();
