@@ -25,7 +25,7 @@ public class teste {
 		
 	
 
-	
+	System.out.println("new chnages done");
 	
 	Object v1= IntStream.rangeClosed(10,15)
 			.boxed()
